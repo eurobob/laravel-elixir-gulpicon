@@ -1,6 +1,6 @@
 {
   "name": "laravel-elixir-gulpicon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Laravel Elixir wrapper for gulpicon",
   "main": "index.js",
   "scripts": {

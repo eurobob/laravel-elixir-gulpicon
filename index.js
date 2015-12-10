@@ -9,7 +9,7 @@ elixir.extend('gulpicon', function(src, output, options) {
 
     config.svg = {
         folder: 'svg',
-        outputFolder: 'assets/svg',
+        outputFolder: 'svg',
     };
 
     var src = (src || config.get('assets.svg.folder')) + '/**/*.svg',
