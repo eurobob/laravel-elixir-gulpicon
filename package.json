@@ -1,0 +1,30 @@
+{
+  "name": "laravel-elixir-gulpicon",
+  "version": "1.0.0",
+  "description": "Laravel Elixir wrapper for gulpicon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eurobob/laravel-elixir-gulpicon.git"
+  },
+  "keywords": [
+    "gulp",
+    "laravel",
+    "elixir",
+    "gulpicon",
+    "svg"
+  ],
+  "author": "Rob Matwiejczyk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eurobob/laravel-elixir-gulpicon/issues"
+  },
+  "homepage": "https://github.com/eurobob/laravel-elixir-gulpicon#readme",
+  "dependencies": {
+    "glob": "^6.0.1",
+    "gulpicon": "^0.1.2"
+  }
+}
