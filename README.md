@@ -24,7 +24,7 @@ elixir(function(mix) {
 
 By default this will scan your `resources/assets/svg` directory for all svg files.
 
-### Changing the default image directories
+### Changing the default svg directories
 
 If you want to process a different image directory, you can update your Elixir config by either:
 
@@ -48,8 +48,8 @@ mix.gulpicon(
     "public/svg",
     {
         optimizationLevel: 3,
-        progressive: true,
-        interlaced: true
+        enhanceSVG: true,
+        compressPNG: true
     }
 );
 ```
