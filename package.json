@@ -25,6 +25,7 @@
   "homepage": "https://github.com/eurobob/laravel-elixir-gulpicon#readme",
   "dependencies": {
     "glob": "^6.0.1",
+    "gulp-util": "^3.0.7",
     "gulpicon": "^0.1.2"
   }
 }
